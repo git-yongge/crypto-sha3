@@ -1,4 +1,4 @@
-module crypto_sha3
+module github.com/git-yongge/crypto-sha3
 
 go 1.14
 
