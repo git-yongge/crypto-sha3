@@ -1,4 +1,4 @@
-module sha3
+module crypto_sha3
 
 go 1.14
 

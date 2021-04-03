@@ -1,4 +1,4 @@
-package sha3
+package crypto_sha3
 
 import (
 	"golang.org/x/crypto/sha3"
